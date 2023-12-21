@@ -23,4 +23,4 @@ Ensure you have the compatible versions of Visual Studio 2022 and the .NET 7.0 S
 
 ### How to run this application?
 
-To run this application, you need to clone the `different-editing-modes-and-types-of-cell-editing-in-aspsotnet-core-datagrid` repository and open it in Visual Studio Code. Now, simply install all the necessary packages into your current project and run the project by pressing the `F5` command.
+To run this application, you need to clone the `different-editing-modes-and-types-of-cell-editing-in-aspsotnet-core-datagrid` repository and open it in Visual Studio Code. Now, simply install all the necessary packages into your current project and run the project by pressing the `F5` key.
