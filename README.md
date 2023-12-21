@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=E5w2fO-N9gE
 
 ## Project pre-requisites
 
-Make sure that you have the compatible versions of Visual Studio 2022 and .NET 7.0 SDK framework in your machine before starting to work on this project.
+Ensure you have the compatible versions of Visual Studio 2022 and the .NET 7.0 SDK framework on your machine before starting to work on this project.
 
 ### How to run this application?
 
-To run this application, you need to clone the `` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project by pressing the `F5` command.
+To run this application, you need to clone the `different-editing-modes-and-types-of-cell-editing-in-aspsotnet-core-datagrid` repository and open it in Visual Studio Code. Now, simply install all the necessary packages into your current project and run the project by pressing the `F5` command.
