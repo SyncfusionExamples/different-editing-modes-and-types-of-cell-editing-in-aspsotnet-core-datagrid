@@ -1,5 +1,5 @@
 # Different Editing Modes and Types of Cell Editing in ASP.NET Core DataGrid
-A quick-start project that helps you how to enable editing options in the Syncfusion ASP.NET Core Grid, including various cell edit types. Explore different editing modes: Normal, Dialog, and Batch.
+A quick-start project that helps you to enable editing options in the Syncfusion ASP.NET Core Grid, including various cell edit types. Explore different editing modes: Normal, Dialog, and Batch.
 
 Documentation: https://ej2.syncfusion.com/aspnetcore/documentation/grid/editing/edit
 
